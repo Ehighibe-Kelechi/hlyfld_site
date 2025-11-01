@@ -55,7 +55,7 @@ hlyfld_site/
 
 1. **Download or Clone the Project**
    ```bash
-   git clone https://github.com/yourusername/hlyfld.git
+   git clone https://github.com/Ehighibe-Kelechi/hlyfld.git
    ```
    Or unzip the provided `.zip` file.
 
@@ -101,8 +101,7 @@ hlyfld_site/
 ## 👤 Author
 
 **Kelechi Ehighibe**  
-📧 [kehighibe36@gmail.com](mailto:kehighibe36@gmail.com)  
-💼 [LinkedIn](https://linkedin.com) | [Twitter](https://twitter.com)
+📧 [kehighibe36@gmail.com](mailto:onyiehighibe@gmail.com)  
 
 ---
 
